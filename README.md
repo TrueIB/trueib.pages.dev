@@ -5,7 +5,7 @@
 - ✅ 响应式布局（适配移动/桌面端）
 - ✅ 笔记模块（Markdown文章渲染）
  
-## 🚀 快速启动 
+## 🚀 快速下载
 ```bash
 git clone https://github.com/True2012/True  # 克隆项目 
 ```
